@@ -1,0 +1,4 @@
+#Fri Oct 01 13:27:22 WAT 2021
+base.0=C\:\\Users\\davie\\AndroidStudioProjects\\flutter_interview_task\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
